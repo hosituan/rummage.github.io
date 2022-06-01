@@ -1,6 +1,6 @@
 # Rummage - To rummage your world
 
-# Terms of Service
+# Terms of Service and Policy
 ## Introduction
  These terms and conditions govern your use of Rummage Application; by using Rummage, you accept our terms and conditions in full and without reservation. If you disagree with these terms and conditions or any part of these terms and conditions, you must not use this application. If you are entering into this agreement on behalf of a company or other legal entity, the terms “you” and “your” shall refer to the entity. By using, you are acknowledging that you have the authority to agree to these terms on behalf of the entity.
 
