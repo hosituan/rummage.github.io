@@ -1,46 +1,31 @@
-# Rummage - To rummage your world
+# Photo Rummage - To rummage your world
 
-# Terms of Service
-## Introduction
- These terms and conditions govern your use of Rummage Application; by using Rummage, you accept our terms and conditions in full and without reservation. If you disagree with these terms and conditions or any part of these terms and conditions, you must not use this application. If you are entering into this agreement on behalf of a company or other legal entity, the terms “you” and “your” shall refer to the entity. By using, you are acknowledging that you have the authority to agree to these terms on behalf of the entity.
+**Terms & Conditions**
 
-Any changes to the Terms of Service will be posted to the website prior to the new terms becoming effective. Any new features released by Rummage shall be subject to the Terms of Service. Continued use of the service after any such changes shall constitute your consent to such changes.
+By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Ho Si Tuan.
 
-## Photos
+Ho Si Tuan is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-- You may not use Rummage for illegal or unauthorized purpose. This includes copyright and trademark laws.
- -  You are responsible for keeping your photos. Rummage is not liable for any damage due to security issues resulting from your failure to do so.
- -  You must be 4 years or older to use Rummage.
+The Photo Rummage app stores and processes personal data that you have provided to us, to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Photo Rummage app won’t work properly or at all.
 
- -  Your use of the service is at your sole risk. The service is provided on an “as is” and “as available” basis.
- -  Support for Rummage services is only available in English and VietNamese, via email.
- -  We provide no guarantees for level of support, unless stipulated by an additional contract or SLA.
-- You understand that Rummage uses third-party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the 
-## Service.
- - You must not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service, Rummage, or any other Rummage service.
- - You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission by Rummage.
- - Verbal, physical, written or other abuse (including threats of abuse or retribution) of any Rummage customer or employee will result in immediate account termination.
- - You understand that the technical processing and transmission of the Service, including your Content, may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
- - You must not upload, post, host, or transmit unsolicited email, SMSs, or "spam" messages.
- - You must not transmit any worms or viruses or any code of a destructive nature.
- - Rummage does not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
- - You must not attempt to reverse engineer, read, or modify any Rummage code, or any code in a third party package being used by Rummage. This includes any code, configuration, or tools specifically related to the build process (eg. Dockerfile).
-- The failure of Rummage to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and Rummage and govern your use of the Service, superseding any prior agreements between you and Rummage (including, but not limited to, any prior versions of the Terms of Service). You agree that these Terms of Service and Your use of the Service are governed under California law.
- - Questions about the Terms of Service should be sent to hosituan.work@gmail.com.
-## Content Ownership
+You should be aware that there are certain things that Ho Si Tuan will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Ho Si Tuan cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
- - Your photos is private in your phone
- - Rummage does not screen or approve content.
- - Rummage holds the copyright to the look and feel of the service. While you are free to extract your content at any time, you may not copy any portion of the HTML, CSS or JS.
-## Payment
+If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
 
- - Upgrading from the free trial to any payment plan will result in immediate billing.
- - Unless otherwise agreed, you will be billed monthly. Payment will be billed on (or as near as possible) to the day of the month you initially upgraded on.
- - All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding on United States (federal or state) taxes.
- - For any upgrade or downgrade in plan level while on a monthly billing cycle, the credit card that you provided will automatically be charged the new rate on your next billing cycle. If a project plan is cancelled partially through a month, the user will receive a prorated refund for the days remaining in their plan.
- - We will do our best to process refunds fairly, based on your usage of the service.
-## Cancellation
- - If you cancel the service before the end of the month, your cancellation will take effect immediately and you will not be charged again.
- - Rummage, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of Rummage for any reason at any time. Such termination of the Service will result in the deactivation or deletion of your Account or your access to your Account, and the forfeiture and relinquishment of all Content in your Account. Rummage reserves the right to refuse service to anyone for any reason at any time.
-## Services and Pricing
- Rummage reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice.
+Along the same lines, Ho Si Tuan cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Ho Si Tuan cannot accept responsibility.
+
+With respect to Ho Si Tuan’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Ho Si Tuan accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+
+At some point, we may wish to update the app. The app is currently available on iOS – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Ho Si Tuan does not promise that it will always update the app so that it is relevant to you and/or works with the iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+
+**Changes to This Terms and Conditions**
+
+I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
+
+These terms and conditions are effective as of 2022-06-03
+
+**Contact Us**
+
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at hosituan.work@gmail.com.
+
+This Terms and Conditions page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
